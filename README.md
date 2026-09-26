@@ -53,6 +53,7 @@ Where:
 
 
 ## Result
-Thus, the phase modulator (PM) signal was successfully generated with SCILAB.
+<img width="1599" height="822" alt="image" src="https://github.com/user-attachments/assets/a1e9cfa2-35ca-45c2-a0fa-f402edfcb9fd" />
+
 
 
